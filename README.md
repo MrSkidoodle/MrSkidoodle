@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrSkidoodle
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python and C++
+- 🌱 I’m currently learning HTML & CSS & Javascript integration
 - 💞️ I’m looking to collaborate on small time projects so i can learn.
 - 📫 How to reach me sbotnari6@gmail.com
 
